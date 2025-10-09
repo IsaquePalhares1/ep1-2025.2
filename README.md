@@ -72,19 +72,19 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Menu Principal](images/print1.png)
+   ![Menu Principal](https://drive.google.com/file/d/1-OYlC56-o5_3Wlhf87bZX5hXmhp-BEuO/view?usp=sharing)
 
 2. Cadastro de Paciente:  
-   ![Cadastro de Paciente](images/print2.png)
+   ![Cadastro de Paciente](https://drive.google.com/file/d/1U9h46xEX3pxJqTtEjnOD5I93dFMwJbua/view?usp=sharing)
 
 3. Cadastro de Médico:  
-   ![Cadastro de Médico](images/print3.png)
+   ![Cadastro de Médico](https://drive.google.com/file/d/1PJS5VfxE0-HCcBHOtPiWJz-g4rF9-E_v/view?usp=sharing)
 
 4. Agendar Consulta + Relatório de Consultas:
-Obs:A opção "Olhar Relatórios" selecionada envia todos os relatórios disponíveis, porém mandarei apenas a parte das consultas.
+* Obs:A opção "Olhar Relatórios" selecionada envia todos os relatórios disponíveis, porém mandarei apenas a parte das consultas.
 
-   ![Agendar Consulta](images/print4.png)
-   ![Relatório de Consultas](images/print5.png)
+   ![Agendar Consulta](https://drive.google.com/file/d/1H3V6mAasDBjes6bccCzCo-AXkcxqZp1g/view?usp=sharing)
+   ![Relatório de Consultas](https://drive.google.com/file/d/10uIEzSXe_9Nu9sIpXI3ECh3f7BJOzcBv/view?usp=sharing)
 
 ---
 
