@@ -72,19 +72,19 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Menu Principal](https://drive.google.com/file/d/1-OYlC56-o5_3Wlhf87bZX5hXmhp-BEuO/view?usp=sharing)
+   ![Menu Principal](https://drive.google.com/uc?export=view&id=1-OYlC56-o5_3Wlhf87bZX5hXmhp-BEuO)
 
 2. Cadastro de Paciente:  
-   ![Cadastro de Paciente](https://drive.google.com/file/d/1U9h46xEX3pxJqTtEjnOD5I93dFMwJbua/view?usp=sharing)
+   ![Cadastro de Paciente](https://drive.google.com/uc?export=view&id=1U9h46xEX3pxJqTtEjnOD5I93dFMwJbua)
 
 3. Cadastro de Médico:  
-   ![Cadastro de Médico](https://drive.google.com/file/d/1PJS5VfxE0-HCcBHOtPiWJz-g4rF9-E_v/view?usp=sharing)
+   ![Cadastro de Médico](https://drive.google.com/uc?export=view&id=1PJS5VfxE0-HCcBHOtPiWJz-g4rF9-E_v)
 
 4. Agendar Consulta + Relatório de Consultas:
 * Obs:A opção "Olhar Relatórios" selecionada envia todos os relatórios disponíveis, porém mandarei apenas a parte das consultas.
 
-   ![Agendar Consulta](https://drive.google.com/file/d/1H3V6mAasDBjes6bccCzCo-AXkcxqZp1g/view?usp=sharing)
-   ![Relatório de Consultas](https://drive.google.com/file/d/10uIEzSXe_9Nu9sIpXI3ECh3f7BJOzcBv/view?usp=sharing)
+   ![Agendar Consulta](https://drive.google.com/uc?export=view&id=1H3V6mAasDBjes6bccCzCo-AXkcxqZp1g)
+   ![Relatório de Consultas](https://drive.google.com/uc?export=view&id=10uIEzSXe_9Nu9sIpXI3ECh3f7BJOzcBv)
 
 ---
 
