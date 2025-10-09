@@ -93,8 +93,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
-
+- O projeto definitivamente nos leva a uma alta performance. Fico grato pelo aprendizado. Contudo, devo ressaltar a complexidade do projeto, especialmente vindo de alguém que só resolvia exercícios de APC no Aprender 3. Porém, é claro que tenho culpa com relação a organização de tempo na realização do projeto. Foi difícil, o resultado não foi excepcional, porém levo como aprendizado o que vivi.
 ---
 
 ## Contato
