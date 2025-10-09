@@ -1,0 +1,2 @@
+Jorge;4;4.0;CARDIOLOGIA;Consulta: Paciente Joao - em 2025-09-09T22:30|Internação: Paciente Joao - 2 - em 2025-10-05|Internação: Paciente Maria - 5 - em 2025-10-02|Paciente: Joao -- Internação iniciada em: 2025-10-05 -- Internação encerrada em: 2025-10-08|Consulta concluída: Paciente Joao - Arritmia | Prescrição: Calmante|Consulta: Paciente Pedro - em 2025-10-10T10:10
+Ana;5;5.0;PSIQUIATRIA;Consulta: Paciente Maria - em 2025-10-10T21:10|Consulta: Paciente Pedro - em 2025-11-12T10:05

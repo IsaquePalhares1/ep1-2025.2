@@ -1,0 +1,3 @@
+Joao;1;1;Consulta do paciente com o Dr/Dra. Jorge em 2025-09-09T22:30 - AGENDADA|Consulta concluída: Arritmia | Prescrição: Calmante;Internação na data 2025-10-05 com o médico responsável Jorge - 2|Internação iniciada em 2025-10-05 e encerrada em 2025-10-08
+Maria;2;2;Consulta do paciente com o Dr/Dra. Ana em 2025-10-10T21:10 - AGENDADA;Internação na data 2025-10-02 com o médico responsável Jorge - 5
+Pedro;3;3;amil|Consulta do paciente com o Dr/Dra. Ana em 2025-11-12T10:05 - AGENDADA|Consulta do paciente com o Dr/Dra. Jorge em 2025-10-10T10:10 - AGENDADA;

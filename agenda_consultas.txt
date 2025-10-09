@@ -1,0 +1,5 @@
+Joao;Jorge;2025-09-05T22:30;consultorio 5;CONCLUIDA
+Joao;Jorge;2025-09-09T22:30;consultorio 5;AGENDADA
+Maria;Ana;2025-10-10T21:10;consultorio 2;AGENDADA
+Pedro;Ana;2025-11-12T10:05;consultorio 3;AGENDADA
+Pedro;Jorge;2025-10-10T10:10;consultorio 10;AGENDADA
