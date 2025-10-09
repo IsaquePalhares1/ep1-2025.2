@@ -10,10 +10,10 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Dados do Aluno
 
-- **Nome completo:** Isaque Victor Palhares Silva
-- **Matrícula:** 251022383
-- **Curso:** Engenharias
-- **Turma:** 02
+- **Nome completo:**  Isaque Victor Palhares Silva
+- **Matrícula:**  251022383
+- **Curso:**  Engenharias
+- **Turma:**  02
 
 ---
 
@@ -27,35 +27,35 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
    
 
 5. **Estrutura de Pastas:**  
-        src/
-      ├── br/
-      │   └── o_o/
-      │       └── projeto1/     [Pasta com as Classes]
-      │           ├── Consulta.java
-      │           ├── Especialidade.java
-      │           ├── Internacao.java
-      │           ├── Main.java
-      │           ├── Medico.java
-      │           ├── Paciente.java
-      │           ├── PacientePlano.java
-      │           ├── PlanoSaude.java
-      │           └── Relatorios.java
-      │
-      ├── agenda_consultas.txt    [Arquivos de persistência]
-      ├── cadastro_medicos.txt
-      ├── cadastro_pacientes.txt
-      ├── cadastro_planos_saude.txt
-      └── marcacoes_internacoes.txt
-
-      images/        [Pasta com os prints]
-      ├── print1.png
-      ├── print2.png
-      ├── print3.png
-      ├── print4.png
-      └── print5.png
+     ```text
+      src/
+         ├── br/
+         │   └── o_o/
+         │       └── projeto1/     [Pasta com as Classes]
+         │           ├── Consulta.java
+         │           ├── Especialidade.java
+         │           ├── Internacao.java
+         │           ├── Main.java
+         │           ├── Medico.java
+         │           ├── Paciente.java
+         │           ├── PacientePlano.java
+         │           ├── PlanoSaude.java
+         │           └── Relatorios.java
+         │
+         ├── agenda_consultas.txt    [Arquivos de persistência]
+         ├── cadastro_medicos.txt
+         ├── cadastro_pacientes.txt
+         ├── cadastro_planos_saude.txt
+         └── marcacoes_internacoes.txt
       
-      README.md   
+      images/        [Pasta com os prints]
+         ├── print1.png
+         ├── print2.png
+         ├── print3.png
+         ├── print4.png
+         └── print5.png
 
+README.md
 3. **Versão do JAVA utilizada:**  
    `openjdk version "17.0.16" 2025-07-15` [Java 17]
 
