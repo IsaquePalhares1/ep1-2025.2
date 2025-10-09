@@ -20,7 +20,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**
-   `javac -encoding UTF-8 br/o_o/projeto1/Main.java` ou `javac -encoding UTF-8 src/br/o_o/projeto1/Main.java`
+   `javac -encoding UTF-8 br/o_o/projeto1/Main.java` ou `cd src` e depois `javac -encoding UTF-8 br/o_o/projeto1/Main.java`
 
 3. **Execução:**
    `java br.o_o.projeto1.Main`
