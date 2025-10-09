@@ -10,26 +10,54 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Dados do Aluno
 
-- **Nome completo:** [Preencher aqui]
-- **Matrícula:** [Preencher aqui]
-- **Curso:** [Preencher aqui]
-- **Turma:** [Preencher aqui]
+- **Nome completo:** Isaque Victor Palhares Silva
+- **Matrícula:** 251022383
+- **Curso:** Engenharias
+- **Turma:** 02
 
 ---
 
 ## Instruções para Compilação e Execução
 
-1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+1. **Compilação:**
+   `javac -encoding UTF-8 br/o_o/projeto1/Main.java`
 
-2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+3. **Execução:**
+   `java br.o_o.projeto1.Main`
+   
 
-3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
+5. **Estrutura de Pastas:**  
+        src/
+      ├── br/
+      │   └── o_o/
+      │       └── projeto1/     [Pasta com as Classes]
+      │           ├── Consulta.java
+      │           ├── Especialidade.java
+      │           ├── Internacao.java
+      │           ├── Main.java
+      │           ├── Medico.java
+      │           ├── Paciente.java
+      │           ├── PacientePlano.java
+      │           ├── PlanoSaude.java
+      │           └── Relatorios.java
+      │
+      ├── agenda_consultas.txt    [Arquivos de persistência]
+      ├── cadastro_medicos.txt
+      ├── cadastro_pacientes.txt
+      ├── cadastro_planos_saude.txt
+      └── marcacoes_internacoes.txt
+
+      images/        [Pasta com os prints]
+      ├── print1.png
+      ├── print2.png
+      ├── print3.png
+      ├── print4.png
+      └── print5.png
+      
+      README.md   
 
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+   `openjdk version "17.0.16" 2025-07-15` [Java 17]
 
 ---
 
@@ -42,13 +70,18 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Inserir Print 1](caminho/do/print1.png)
+   ![Menu Principal](images/print1.png)
 
-2. Cadastro de Médico:  
-   ![Inserir Print 2](caminho/do/print2.png)
+2. Cadastro de Paciente:  
+   ![Cadastro de Paciente](images/print2.png)
 
-3. Relatório de ?:  
-   ![Inserir Print 3](caminho/do/print3.png)
+3. Cadastro de Médico:  
+   ![Cadastro de Médico](images/print3.png)
+
+4. Agendar Consulta + Relatório de Consultas:
+Obs:A opção "Olhar Relatórios" selecionada envia todos os relatórios disponíveis, porém mandarei apenas a parte das consultas.
+   ![Agendar Consulta](images/print4.png)
+   ![Relatório de Consultas](images/print5.png)
 
 ---
 
@@ -62,7 +95,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+- isaquevictorfla@gmail.com
 
 ---
 
