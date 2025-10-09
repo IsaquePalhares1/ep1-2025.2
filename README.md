@@ -82,6 +82,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 4. Agendar Consulta + Relatório de Consultas:
 Obs:A opção "Olhar Relatórios" selecionada envia todos os relatórios disponíveis, porém mandarei apenas a parte das consultas.
+
    ![Agendar Consulta](images/print4.png)
    ![Relatório de Consultas](images/print5.png)
 
